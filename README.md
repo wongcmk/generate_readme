@@ -55,5 +55,5 @@ THEN I am taken to the corresponding section of the README
 
 * Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
-<img src="/assets/MyREADMEtrial.png" alt="My READMEtrial picture" style="width:128px;height:128px;">
-<img src="/assets/MyPackageJason.png" alt="My PackageJason picture" style="width:128px;height:128px;">
+<img src="/Develop/assets/MyREADMEtrial.png" alt="My READMEtrial picture" style="width:128px;height:128px;">
+<img src="/Develop/assets/MyPackageJason.png" alt="My PackageJason picture" style="width:128px;height:128px;">
